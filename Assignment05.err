@@ -1,0 +1,9 @@
+Message[302] G:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 05\ASSIGNMENT05.ASM 85 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] G:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 05\ASSIGNMENT05.ASM 87 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] G:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 05\ASSIGNMENT05.ASM 88 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] G:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 05\ASSIGNMENT05.ASM 98 : Found opcode in column 1. (goto)
+Message[305] G:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 05\ASSIGNMENT05.ASM 101 : Using default destination of 1 (file).
+Message[305] G:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 05\ASSIGNMENT05.ASM 103 : Using default destination of 1 (file).
+Message[305] G:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 05\ASSIGNMENT05.ASM 106 : Using default destination of 1 (file).
+Message[305] G:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 05\ASSIGNMENT05.ASM 108 : Using default destination of 1 (file).
+Warning[205] G:\HW\FINISHEDASSIGNMENTS\ASSIGNMENT 05\ASSIGNMENT05.ASM 114 : Found directive in column 1. (end)

@@ -1,0 +1,12 @@
+delay:
+	 LOOP1   DECFSZ  COUNT1, 1       ;subtract 1 from 255 store new count in COUNT	
+		goto	LOOP1			;if COUNT is zero, skip this instruction
+		DECFSZ	COUNT2, 1 		;Subtract 1 from 255 	
+		goto 	LOOP1			;go back to start of our loop 
+						;this delay counts down from 255, 255 times, total 65,025
+LOOP2	DECFSZ	COUNT1, 1		;subtract 1 from 255 store new count in COUNT
+		goto	LOOP2			;if COUNT is zero, skip this instruction
+		DECFSZ	COUNT2, 1 		;Subtract 1 from 255 	
+		goto 	LOOP2			;go back to start of our loop
+		return
+		goto	delay			;GO BACK TO START AND TURN LED ON AGAIN

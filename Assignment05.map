@@ -1,0 +1,44 @@
+MPLINK 4.48, Linker
+Linker Map File - Created Thu Apr 05 15:32:11 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x00004a
+.config_2007_ASSIGNMENT05.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x000028      
+                            0x002007    0x002007      
+            39 out of 4359 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    LOOP1   0x000020    program     static G:\HW\FinishedAssignments\Assignment 05\Assignment05.asm
+                    LOOP2   0x000024    program     static G:\HW\FinishedAssignments\Assignment 05\Assignment05.asm
+                    again   0x000019    program     static G:\HW\FinishedAssignments\Assignment 05\Assignment05.asm
+                    delay   0x000020    program     static G:\HW\FinishedAssignments\Assignment 05\Assignment05.asm
+                     main   0x000010    program     static G:\HW\FinishedAssignments\Assignment 05\Assignment05.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     main   0x000010    program     static G:\HW\FinishedAssignments\Assignment 05\Assignment05.asm
+                    again   0x000019    program     static G:\HW\FinishedAssignments\Assignment 05\Assignment05.asm
+                    LOOP1   0x000020    program     static G:\HW\FinishedAssignments\Assignment 05\Assignment05.asm
+                    delay   0x000020    program     static G:\HW\FinishedAssignments\Assignment 05\Assignment05.asm
+                    LOOP2   0x000024    program     static G:\HW\FinishedAssignments\Assignment 05\Assignment05.asm
+
+
